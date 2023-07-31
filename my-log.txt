@@ -1,0 +1,53 @@
+commit 5b0c11d24547544d5ad86e9c42967352a1ba8c72
+Author: HousePanther <housepanther@goblackcat.com>
+Date:   Mon Jul 31 19:49:57 2023 -0400
+
+    Completed README.md
+    
+    Added the concepts that I practiced. Made it a reflection of the current work.
+
+commit d1c2736c173d6d904e1ac2eb4da9f2e12577d7c4
+Author: HousePanther <housepanther@goblackcat.com>
+Date:   Mon Jul 31 19:47:54 2023 -0400
+
+    Add alt text to images.
+    
+    Add alt text to the pretzel image in the bavarian-pretzels recipe and the pizza image in the pizza-crust recipe.
+
+commit 9598f84d8816d161742e72abe8fc7aadd11e0575
+Author: HousePanther <housepanther@goblackcat.com>
+Date:   Mon Jul 31 19:41:26 2023 -0400
+
+    Add the pizza crust recipe
+    
+    Pizza crust recipe checked and added.
+
+commit e395677f4429ca761d904bc729f48812b53645d9
+Author: HousePanther <housepanther@goblackcat.com>
+Date:   Mon Jul 31 19:22:12 2023 -0400
+
+    Add the pretzel recipe
+    
+    Add recipe and image.
+
+commit 789cab3b5daaff798c77a66640ea86cf23a3b80a
+Author: HousePanther <housepanther@goblackcat.com>
+Date:   Mon Jul 31 19:03:13 2023 -0400
+
+    Fix the unordered list syntax
+    
+    Use proper <ul> and <li> tags with links nested.
+
+commit 0698fcf43fda50fb9a9d8a265133b35a1d3c7d91
+Author: HousePanther <housepanther@goblackcat.com>
+Date:   Mon Jul 31 18:56:31 2023 -0400
+
+    Add apple pie recipe
+    
+    Use special html codes for fractions and temperature to learn about them.
+
+commit 2a0c73e3302362c998b4ebdbf1a53062b6d29323
+Author: HousePanther <98136634+housepanther@users.noreply.github.com>
+Date:   Mon Jul 31 18:01:58 2023 -0400
+
+    Initial commit
