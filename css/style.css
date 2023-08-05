@@ -1,0 +1,45 @@
+/* Styles for index.html */
+.recipe-list {
+    list-style-type: none;
+    line-height: 2;
+}
+
+.recipe-list a {
+    text-decoration: none;
+}
+
+.recipe-list a:hover {
+    text-decoration: underline;
+}
+/*--*/
+
+/* Styles for recipes */
+.title {
+    font-family: cursive;
+    text-align: center;
+}
+
+.recipe {
+    background-color: lightpink;
+    color: #008080;
+    line-height: 1.5;
+}
+
+.recipe-image {
+    display: block;
+    margin: auto;
+    height: auto;
+}
+
+.description {
+    color: #bc4a3c;
+}
+
+.ingredients {
+    color: darkgoldenrod;
+}
+
+.directions {
+    color: #FF007F;
+}
+/*--*/
