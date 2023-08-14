@@ -1,23 +1,41 @@
-/* Styles for index.html */
-.recipe-list {
-    list-style-type: none;
-    line-height: 2;
+* {
+    margin: 0px;
+    padding: 0px;
 }
 
-.recipe-list a {
-    text-decoration: none;
-}
-
-.recipe-list a:hover {
-    text-decoration: underline;
-}
-/*--*/
-
-/* Styles for recipes */
 .title {
     font-family: cursive;
     text-align: center;
+    display: block;
+    margin: auto 10px 50px auto;
 }
+
+.recipe-list ul {
+    list-style-type: none;
+}
+
+.recipe-list li {
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 200px;
+    padding: 20px 5px 20px 5px;
+    border: 2px solid black;
+    background-color: lightcoral;
+    text-align: center;
+    font-weight: 100;
+}
+
+.recipe-list ul a {
+    color: aqua;
+    text-decoration: none;
+}
+
+.recipe-list ul a:hover {
+    text-decoration: underline;
+}
+
+/*--*/
 
 .recipe {
     background-color: lightpink;
@@ -42,4 +60,3 @@
 .directions {
     color: #FF007F;
 }
-/*--*/
